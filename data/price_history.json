@@ -1,0 +1,134 @@
+{
+  "NHẪN TRÒN TRƠN (Vàng Rồng Thăng Long)": [
+    {
+      "timestamp": "2025-06-03T01:52:04.242Z",
+      "buyPrice": 11350000,
+      "sellPrice": 11650000,
+      "updateTime": "02/06/2025 14:40"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:10.440Z",
+      "buyPrice": 11350000,
+      "sellPrice": 11650000,
+      "updateTime": "02/06/2025 14:40"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:38.276Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:54.683Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:58.459Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:59.680Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:55:20.306Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    }
+  ],
+  "VÀNG MIẾNG SJC (Vàng SJC)": [
+    {
+      "timestamp": "2025-06-03T01:52:04.242Z",
+      "buyPrice": 11580000,
+      "sellPrice": 11780000,
+      "updateTime": "02/06/2025 14:40"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:10.440Z",
+      "buyPrice": 11580000,
+      "sellPrice": 11780000,
+      "updateTime": "02/06/2025 14:40"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:38.276Z",
+      "buyPrice": 11600000,
+      "sellPrice": 11800000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:54.683Z",
+      "buyPrice": 11600000,
+      "sellPrice": 11800000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:58.459Z",
+      "buyPrice": 11600000,
+      "sellPrice": 11800000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:59.680Z",
+      "buyPrice": 11600000,
+      "sellPrice": 11800000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:55:20.306Z",
+      "buyPrice": 11600000,
+      "sellPrice": 11800000,
+      "updateTime": "03/06/2025 08:48"
+    }
+  ],
+  "QUÀ MỪNG BẢN VỊ VÀNG (Quà Mừng Bản Vị Vàng)": [
+    {
+      "timestamp": "2025-06-03T01:52:04.242Z",
+      "buyPrice": 11350000,
+      "sellPrice": 11650000,
+      "updateTime": "02/06/2025 14:40"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:10.440Z",
+      "buyPrice": 11350000,
+      "sellPrice": 11650000,
+      "updateTime": "02/06/2025 14:40"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:38.276Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:54.683Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:58.459Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:52:59.680Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T01:55:20.306Z",
+      "buyPrice": 11400000,
+      "sellPrice": 11700000,
+      "updateTime": "03/06/2025 08:48"
+    }
+  ]
+}
