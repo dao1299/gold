@@ -41,6 +41,24 @@
       "buyPrice": 11400000,
       "sellPrice": 11700000,
       "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T02:00:20.087Z",
+      "buyPrice": 11380000,
+      "sellPrice": 11680000,
+      "updateTime": "03/06/2025 08:57"
+    },
+    {
+      "timestamp": "2025-06-03T02:01:59.887Z",
+      "buyPrice": 11380000,
+      "sellPrice": 11680000,
+      "updateTime": "03/06/2025 08:57"
+    },
+    {
+      "timestamp": "2025-06-03T02:03:00.116Z",
+      "buyPrice": 11380000,
+      "sellPrice": 11680000,
+      "updateTime": "03/06/2025 08:57"
     }
   ],
   "VÀNG MIẾNG SJC (Vàng SJC)": [
@@ -85,6 +103,24 @@
       "buyPrice": 11600000,
       "sellPrice": 11800000,
       "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T02:00:20.087Z",
+      "buyPrice": 11600000,
+      "sellPrice": 11800000,
+      "updateTime": "03/06/2025 08:57"
+    },
+    {
+      "timestamp": "2025-06-03T02:01:59.887Z",
+      "buyPrice": 11600000,
+      "sellPrice": 11800000,
+      "updateTime": "03/06/2025 08:57"
+    },
+    {
+      "timestamp": "2025-06-03T02:03:00.116Z",
+      "buyPrice": 11600000,
+      "sellPrice": 11800000,
+      "updateTime": "03/06/2025 08:57"
     }
   ],
   "QUÀ MỪNG BẢN VỊ VÀNG (Quà Mừng Bản Vị Vàng)": [
@@ -129,6 +165,24 @@
       "buyPrice": 11400000,
       "sellPrice": 11700000,
       "updateTime": "03/06/2025 08:48"
+    },
+    {
+      "timestamp": "2025-06-03T02:00:20.087Z",
+      "buyPrice": 11380000,
+      "sellPrice": 11680000,
+      "updateTime": "03/06/2025 08:57"
+    },
+    {
+      "timestamp": "2025-06-03T02:01:59.887Z",
+      "buyPrice": 11380000,
+      "sellPrice": 11680000,
+      "updateTime": "03/06/2025 08:57"
+    },
+    {
+      "timestamp": "2025-06-03T02:03:00.116Z",
+      "buyPrice": 11380000,
+      "sellPrice": 11680000,
+      "updateTime": "03/06/2025 08:57"
     }
   ]
 }

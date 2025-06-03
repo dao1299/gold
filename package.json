@@ -2,10 +2,11 @@
   "name": "gold-price-tracker",
   "version": "1.0.0",
   "description": "BTMC Gold Price Tracker with Charts",
-  "main": "server.js",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "node api/index.js",
+    "dev": "nodemon api/index.js",
+    "vercel-build": "echo 'Building for Vercel'"
   },
   "engines": {
     "node": ">=18.0.0"
